@@ -1,3 +1,3 @@
 # water_isotope
-This folder contains sample data or full data used to run all analyses in the manuscript.
 This folder contains codes (python in Jupyter Notebook) used to obtain datasets or conduct data analysis.
+Sample data or interim data can be assessed at: https://zenodo.org/uploads/15041289?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjIxMzI1ZmUwLTdkNmUtNGQ5MC1hMGNhLWI3NzlhYzZlMmE3NiIsImRhdGEiOnt9LCJyYW5kb20iOiJmODhlYmQzMWYyOTcxMTNkOWZhZDY4NDAxNjk2ZDJlMCJ9.Iv9f3OORCrGB9hjxiQSxmF57dt5euU420IB59fad7qvS01YmNvHXasTfzafB2x4oDaT4RM4OT5u_1irXwtCZwA
